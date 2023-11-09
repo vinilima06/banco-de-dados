@@ -3,7 +3,7 @@
 ### Criar banco de dados
 ```sql
 
-CREATE DATABASE tecdev_escola_ignacio CHARACTER SET utf8mb4;
+CREATE DATABASE tecdev_escola_vinicius CHARACTER SET utf8mb4;
 
 ```
 <!-- ____________________________________________________________________ -->
